@@ -1,3 +1,7 @@
+#About Mapit
+
+Angular 2 app that allows you to mark points on the map and manage them. It uses Google Maps
+
 # Mapit
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.3.
